@@ -8,3 +8,9 @@
 | ZHOU XINYI  | A0231538H | model comparing, project management, system testing | e0703570@u.nus.edu |
 | Content Cell  | Content Cell | |
 | Content Cell  | Content Cell | |
+
+| Year | World population |
+| :--: | ---------------- |
+| 1960 | 3 Billion        |
+| 1980 | 4 Billion        |
+| 2000 | 6 Billion        |
