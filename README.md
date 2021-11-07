@@ -17,3 +17,16 @@ The project has developed a Messenger bookkeeping chatbot based on natural langu
 | ZHOU XINYI | A0231538H | model comparing, project management, system testing | e0703570@u.nus.edu |
 | ZHOU YIYANG | A0231545L |  |  |
 | CHEN ZEFANG | A0231380R | Evaluating dataset quality, use case testing, model evaluation  |  |
+
+# SECTION 4 : VIDEOS
+[![Watch the video](https://www.youtube.com/watch?v=RXM_PunUZbo/0.jpg)](https://www.youtube.com/watch?v=RXM_PunUZbo)
+
+[![Watch the video](https://www.youtube.com/watch?v=RXM_PunUZbo/0.jpg)](https://www.youtube.com/watch?v=RXM_PunUZbo)
+
+# SECTION 5 : USER GUIDE
+Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
+
+# SECTION 6 : PROJECT REPORT / PAPER
+Refer to project report at Github Folder: ProjectReport
+
+# SECTION 7 : MISCELLANEOUS
