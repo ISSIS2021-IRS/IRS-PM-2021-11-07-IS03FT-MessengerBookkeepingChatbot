@@ -26,7 +26,8 @@ The project has developed a Messenger bookkeeping chatbot based on natural langu
 
 ----
 ## SECTION 5 : USER GUIDE
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
+
+` Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
 
 Our system is running on our server, so users can easily get the robot’s help just by chat with it through Facebook Messenger.
 
@@ -38,10 +39,32 @@ Click it to start the conversation and enjoy your convenient bookkeeping with it
 
 #### User Guide
 
+- If you want to add a record of expense or income, send message to it through the chat window (as the screenshot shown below). Then it will return you some response in template:
+
+> 已记录
+> 时间:2021年11月6日
+> 类型:支出$666.0
+
+- If you want to query the past record, you can ask it to check (查询) the daily/monthly/yearly records by sending it message including key words “查询” and time description.
+- If you add a record by mistake and need to delete it, please ask to check the daily records of the wrong record. Use the ID to delete the record in this format: 
+
+> delete@61838e07f13****
 
 ----
 ## SECTION 6 : PROJECT REPORT / PAPER
-`Refer to project report at Github Folder: ProjectReport
+
+` Refer to project report at Github Folder: ProjectReport
+
+- Executive Summary	
+- Business justification	
+- System Design	
+- System Development and Implement	
+- Future Improvements	
+- Appendix 1 Proposal	
+- Appendix 2 Installation and User Guide 	
+- Appendix 3 Individual Report 	
+- Appendix 4 Mapped System Functionalities against knowledge
+
 
 ----
 ## SECTION 7 : MISCELLANEOUS
