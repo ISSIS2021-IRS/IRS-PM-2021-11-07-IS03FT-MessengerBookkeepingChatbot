@@ -1,15 +1,15 @@
-# IRS-PM-2021-11-07-IS03FT-MessengerBookkeepingChatbot
+## IRS-PM-2021-11-07-IS03FT-MessengerBookkeepingChatbot
 
-# SECTION 1 : PROJECT TITLE
+## SECTION 1 : PROJECT TITLE
 ### MESSENGER BOOKKEEPING CHATBOT 
 ------
-# SECTION 2 : EXECUTIVE SUMMARY
+## SECTION 2 : EXECUTIVE SUMMARY
 As consumers continue to struggle with the financial uncertainty caused by more than a year of pandemic economic disruptions, budgeting has become a top priority for many people. While there is no shame in using a handwritten bookkeeping, bookkeeping apps or intelligent bookkeeping chatbot have become a popular way to track spending and savings habits.
 
 The project has developed a Messenger bookkeeping chatbot based on natural language processing techniques. Since transactions for modern people are, nowadays, very frequent and mostly digital, and since recording transactions are still important for an individual’s financial management, an auto-bookkeeping tool is in demand. The system developed in the project has two main functions, transaction history query and recording transactions. The model applies Naive Bayes algorithm to classify different actions of input sentences. The input sentences are transformed into word vectors using Jieba functions. Moreover, the project has a potential to be further developed to be a data-mining tool.
 
 ----
-# SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name | Student ID | Work Items | Email (Optional) |
 | :--: | :--: | :--: | :--: |
@@ -18,15 +18,15 @@ The project has developed a Messenger bookkeeping chatbot based on natural langu
 | ZHOU YIYANG | A0231545L |  |  |
 | CHEN ZEFANG | A0231380R | Evaluating dataset quality, use case testing, model evaluation  |  |
 
-# SECTION 4 : VIDEOS
+## SECTION 4 : VIDEOS
 [![Watch the video](https://www.youtube.com/watch?v=RXM_PunUZbo/0.jpg)](https://www.youtube.com/watch?v=RXM_PunUZbo)
 
-[![Watch the video](https://www.youtube.com/watch?v=RXM_PunUZbo/0.jpg)](https://www.youtube.com/watch?v=RXM_PunUZbo)
+[![Watch the video](https://www.youtube.com/watch?v=NYM5bnKoLRQ/0.jpg)](https://www.youtube.com/watch?v=NYM5bnKoLRQ)
 
-# SECTION 5 : USER GUIDE
+## SECTION 5 : USER GUIDE
 Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
 
-# SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 6 : PROJECT REPORT / PAPER
 Refer to project report at Github Folder: ProjectReport
 
-# SECTION 7 : MISCELLANEOUS
+## SECTION 7 : MISCELLANEOUS
