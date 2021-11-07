@@ -27,7 +27,7 @@ The project has developed a Messenger bookkeeping chatbot based on natural langu
 ----
 ## SECTION 5 : USER GUIDE
 
-` Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
+` Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport `
 
 Our system is running on our server, so users can easily get the robot’s help just by chat with it through Facebook Messenger.
 
@@ -53,7 +53,7 @@ Click it to start the conversation and enjoy your convenient bookkeeping with it
 ----
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-` Refer to project report at Github Folder: ProjectReport
+`Refer to project report at Github Folder: ProjectReport`
 
 - Executive Summary	
 - Business justification	
