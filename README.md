@@ -22,7 +22,7 @@ The project has developed a Messenger bookkeeping chatbot based on natural langu
 ## SECTION 4 : VIDEOS
 [![EZcharge](https://res.cloudinary.com/marcomontalbano/image/upload/v1636293996/video_to_markdown/images/youtube--RXM_PunUZbo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RXM_PunUZbo "EZcharge")
 
-[![Watch the video](https://www.youtube.com/watch?v=NYM5bnKoLRQ/0.jpg)](https://www.youtube.com/watch?v=NYM5bnKoLRQ)
+[![Introduce](https://res.cloudinary.com/marcomontalbano/image/upload/v1636294050/video_to_markdown/images/youtube--NYM5bnKoLRQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=NYM5bnKoLRQ "Introduce")
 
 ----
 ## SECTION 5 : USER GUIDE
