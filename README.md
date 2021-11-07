@@ -1,7 +1,6 @@
 # IRS-PM-2021-11-07-IS03FT-MessengerBookkeepingChatbot
-
-# Tables
 ----
+# Tables
 
 | Official Full Name | Student ID | Work Items | Email (Optional) |
 | :--: | ---------------- | ---------------- | ---------------- |
