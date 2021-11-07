@@ -9,8 +9,9 @@
 | Content Cell  | Content Cell | |
 | Content Cell  | Content Cell | |
 
-| Year | World population |
-| :--: | ---------------- |
-| 1960 | 3 Billion        |
-| 1980 | 4 Billion        |
-| 2000 | 6 Billion        |
+| Official Full Name | Student ID | Work Items | Email (Optional) |
+| :--: | ---------------- | ---------------- | ---------------- |
+| ZENG TENGYUE | A0231549A | Back-end development, cascading Bayesian model development, database development | tengyue@u.nus.edu |
+| ZHOU XINYI | A0231538H | model comparing, project management, system testing | e0703570@u.nus.edu |
+| ZENG TENGYUE | A0231549A | Back-end development, cascading Bayesian model development, database development | tengyue@u.nus.edu |
+| ZHOU XINYI | A0231538H | model comparing, project management, system testing | e0703570@u.nus.edu |
